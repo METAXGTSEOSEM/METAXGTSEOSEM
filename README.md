@@ -20,7 +20,7 @@
 ### 👨‍💻 Core Philosophy & Operations
 
 > **Integrating AI Infrastructure, Development, and Multi-Channel Growth.**
-> 涵盖从底层 AI 模型部署（LLM / ComfyUI）、定制化程序开发到 CMS/SaaS 建站的全链路技术支持；并驱动以 SEO/GEO、PPC 广告矩阵（Google/Meta/TikTok）及社媒运营为核心的流量变现闭环。
+> We provide end-to-end technical support—spanning underlying AI model deployment (LLMs, ComfyUI) and custom application development to CMS/SaaS website building—while driving a traffic monetization loop centered on SEO/GEO, PPC advertising matrices (Google, Meta, TikTok), and social media operations.
 
 <br>
 
